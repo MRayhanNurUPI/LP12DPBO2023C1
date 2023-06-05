@@ -7,3 +7,4 @@ Saya Muhammad Rayhan Nur [2100192] mengerjakan Latihan Praktikum 12 dalam mata k
 Program ini dibuat dalam tujuan mengeksplorasi penggunaan arsitektur MVVM (Model-View-ViewModel) dengan melakukan restrukturisasi projek.
 
 ## Alasan Menggunakan Arsitektur MVVM
+Karena sepertinya lebih mudah dibanding MVP. (note: alasan sementara)
